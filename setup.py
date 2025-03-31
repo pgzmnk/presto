@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     author="PG",
     author_email="pgzmnk@gmail.com",
-    version="0.0.2",
+    version="0.0.3",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: Other/Proprietary License",
@@ -25,7 +25,7 @@ setup(
         "einops>=0.6.0",
         "h5py>=3.6.0",
         "matplotlib>=3.6.2",
-        "numpy>=1.23.5",
+        "numpy<2.0.0",
         "torch>=2.0",
         "tqdm>=4.64.1",
         "webdataset>=0.2.31",
