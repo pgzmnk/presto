@@ -14,7 +14,7 @@ setup(
     long_description_content_type="text/markdown",
     author="PG",
     author_email="pgzmnk@gmail.com",
-    version="0.0.1",
+    version="0.0.2",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: Other/Proprietary License",
